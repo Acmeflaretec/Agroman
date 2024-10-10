@@ -22,22 +22,32 @@ const About = () => {
             <Col lg={6}>
               <div className="px-lg-4">
                 <h2 className="fw-bold mb-4">About Us</h2>
-                <p>
-                Welcome to Travancore Gardens, your one-stop destination for all things green! At Travancore Gardens, we believe that a beautiful garden can bring joy, tranquility, and a breath of fresh air to any space. Whether you are a seasoned gardener or just starting your journey, we are here to provide you with the finest plants, garden tools, and expert advice to help you create the garden of your dreams.
+                <h4><strong>Agro Man Store</strong></h4>
+                <p>Welcome to <strong>Agro Man Store</strong> - your go-to online marketplace for high-quality, affordable products sourced directly from small-scale manufacturers. Our platform is designed to connect buyers with manufacturers, ensuring that you get the best deals on FMCG and other consumable goods without the middleman markup.
                 </p>
-                <p>
-                Our journey began with a simple passion for nature and a desire to share the beauty of plants with our community. Over the years, we have grown from a small local nursery into a trusted name in the gardening world, offering a wide range of plants, from vibrant flowers and lush greenery to fruit-bearing trees and rare species. But we are more than just a garden store; we are a community of plant lovers who believe in nurturing not just plants, but relationships.
+                <h4>Our Mission</h4>
+                <p>At Agro Man Store, we believe in empowering local manufacturers and helping them grow their businesses beyond their cities and communities. Our mission is to create a space where small-scale producers can thrive by offering their products to a broader market. We aim to give these manufacturers the exposure they need to expand and bring their unique, quality products to a wider audience.
                 </p>
-                <p>
-                At Travancore Gardens, sustainability is at the heart of everything we do. We are committed to eco-friendly practices, ensuring that our products are sourced responsibly and our impact on the environment is minimized. From organic fertilizers to sustainable gardening tools, every product we offer is carefully selected to help you cultivate a garden that is as kind to the earth as it is beautiful.
+                <h4>What We Offer</h4>
+                <p>Our platform offers a wide range of products directly from the source, cutting out intermediaries to ensure both buyers and manufacturers benefit. We primarily focus on:
                 </p>
-                <p>
-                Our team of gardening experts is always on hand to offer personalized advice and tips to help your garden thrive. Whether you are looking to create a cozy balcony oasis, a bountiful vegetable garden, or a serene backyard retreat, we are here to support you every step of the way.
-
-                Join us on this green journey and discover the joy of gardening with Travancore Gardens. Let us grow something beautiful together!
-                </p>
+                <ul>
+                  <li><strong> Fast-Moving Consumer Goods (FMCG):</strong> From daily essentials to household consumables, we bring products directly from the producer to your doorstep.
+                  </li>
+                  <li><strong> Diverse Range of Products:</strong>Agro Man Store provides an extensive selection of items across multiple categories, all verified by our team to ensure quality.
+                  </li>
+                </ul>
+                
+                
               </div>
+              
             </Col>
+            <h4>Supporting Small Manufacturers</h4>
+                <p>We understand the challenges faced by small-scale manufacturers in reaching new markets. That’s why we have created Agro Man Store – a platform where they can easily list and sell their products across borders, no matter the size of their operations. By partnering with us, local manufacturers can now expand their reach and grow their business beyond their hometowns.
+                </p>
+                <h4>Trust and Quality Assurance</h4>
+                <p>Our team carefully verifies every seller and product on Agro Man Store. We are committed to providing a safe and trusted environment for both buyers and sellers. Every product you find on our platform is vetted for quality, so you can shop with confidence.
+                </p>
           </Row>
         </Container>
       </div>

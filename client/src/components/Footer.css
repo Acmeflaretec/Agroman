@@ -60,8 +60,17 @@
     transition: color 0.3s ease;
     font-size: 0.9rem;
   }
+  .footer-contact a{
+    color: #b0b0b0;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 0.9rem;
+  }
   
   .footer-links a:hover {
+    color: #4CAF50;
+  }
+  .footer-contact a:hover {
     color: #4CAF50;
   }
   

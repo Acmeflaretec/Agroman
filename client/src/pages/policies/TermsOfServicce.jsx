@@ -10,15 +10,15 @@ function TermsOfService() {
         <div className="row">
           <div className="col">
             <h1 className="mb-4">Terms and conditions</h1>
-            <p>
-              For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean ANJANA KRISHNAPANICKER VALSALA, whose registered/operational office is Pallivila puthen veedu ambalathinkala po kattakada Thiruvananthapuram KERALA 695572 . "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
+            <p>For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean MELETH VINOJ VIVEK, whose registered/operational office is Room no :5 , saradha complex , tholur, parappur kaipparambu road Thrissur KERALA 680552 . "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
             </p>
 
             <h5 className="mt-4"><strong>Your use of the website and/or purchase from us are governed by following Terms and Conditions:
             </strong></h5>
             <h6>The content of the pages of this website is subject to change without notice.
+
             </h6>
-            <p>
+            {/* <p>
               Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
             </p>
             <p>
@@ -38,7 +38,7 @@ function TermsOfService() {
             </p>
             <p>Any dispute arising out of use of our website and/or purchase with us and/or any engagement with us is subject to the laws of India .
             </p>
-            <p>We, shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time</p>
+            <p>We, shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time</p> */}
           </div>
         </div>
       </div>

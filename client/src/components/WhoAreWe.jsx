@@ -17,8 +17,8 @@ const WhoAreWe = () => {
             <h2 className="section-title">Who Are We?</h2>
             <div className="green-line"></div>
             <p className="section-text">
-            At Travancore Gardens, we’re passionate about helping you create beautiful, sustainable gardens. From vibrant flowers and lush greenery to organic gardening tools, we offer everything you need to cultivate your dream outdoor space. With a commitment to eco-friendly practices and a community of plant lovers, we’re here to support you on your gardening journey. Let’s grow something beautiful together!
-           </p>
+            Welcome to <strong>Agro Man Store</strong> - your go-to online marketplace for high-quality, affordable products sourced directly from small-scale manufacturers. Our platform is designed to connect buyers with manufacturers, ensuring that you get the best deals on FMCG and other consumable goods without the middleman markup.
+</p>
          
            <Link to={'/about'}>
                 <motion.button 

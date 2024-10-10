@@ -15,9 +15,9 @@ function Footer() {
               We are committed to providing eco-friendly products that promote sustainability and environmental responsibility.
             </p>
             <div className="social-icons">
-              <a href="https://www.facebook.com/profile.php?id=61561366147522&mibextid=LQQJ4d" target="_blank" className="social-icon"><FaFacebookF /></a>
-              <a href="https://www.instagram.com/kg.ecoproducts?igsh=ejU0OXp4ZTFrMGVp&utm_source=qr" target="_blank" className="social-icon"><FaInstagram /></a>
-              <a href="https://www.linkedin.com/company/kgecoproducts/" target="_blank" className="social-icon"><FaLinkedinIn /></a>
+              <a href="#" target="_blank" className="social-icon"><FaFacebookF /></a>
+              <a href="#" target="_blank" className="social-icon"><FaInstagram /></a>
+              <a href="#" target="_blank" className="social-icon"><FaLinkedinIn /></a>
             </div>
           </Col>
           <Col lg={2} md={6} className="footer-section">
@@ -42,9 +42,9 @@ function Footer() {
           <Col lg={3} md={6} className="footer-section">
             <h5 className="footer-title">Contact Us</h5>
             <ul className="footer-contact">
-              <li><i className="fas fa-phone"></i> +91 123456789</li>
-              <li><i className="fas fa-envelope"></i> example@gmail.com</li>
-              <li><i className="fas fa-map-marker-alt"></i>trivandrum</li>
+              <li><a href='tel:+919778777922'><i className="fas fa-phone"></i> +91 9778777922</a></li>
+              <li><a href='mailto:agromanfrancis@gmail.com'><i className="fas fa-envelope"></i> agromanfrancis@gmail.com</a></li>
+              <li><a href='https://maps.app.goo.gl/LmxxZo7L73m2T8zQ9'><i className="fas fa-map-marker-alt"></i>Room no 5,Saradha complex,Tholur,Thrissur,680552</a></li>
             </ul>
           </Col>
         </Row>

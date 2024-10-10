@@ -6,18 +6,18 @@ const WhyChooseUs = () => {
   const reasons = [
     {
       icon: 'handshake',
-      title: 'Expert Guidance',
-      description: 'At Travancore Gardens, we do more than just sell plants—we share our passion and expertise with you. Our knowledgeable team is always ready to provide personalized advice, whether you are a beginner or an experienced gardener. From selecting the right plants to offering care tips, we are here to help your garden thrive.',
+      title: 'Direct Sourcing:',
+      description: 'Buy directly from verified manufacturers and enjoy competitive prices.',
     },
     {
       icon: 'leaf',
-      title: ' Eco-Friendly Commitment',
-      description: 'Sustainability is at the core of everything we do. We are dedicated to offering products that are kind to the environment, from organic fertilizers to sustainably sourced plants. By choosing Travancore Gardens, you are not only beautifying your space but also making a positive impact on the planet.',
+      title: ' Wide Selection:',
+      description: 'We offer a variety of high-quality, affordable products across multiple categories.',
     },
     {
       icon: 'award',
-      title: 'Quality You Can Trust',
-      description: 'We take pride in the quality of our products. Every plant, tool, and garden accessory is carefully selected to ensure it meets our high standards. With Travancore Gardens, you can trust that you are getting the best, whether you are purchasing a rare plant or essential gardening supplies.',
+      title: 'Support for Small Businesses:',
+      description: 'Your purchases directly help small manufacturers grow their business.',
     },
   ];
 
