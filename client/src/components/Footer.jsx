@@ -15,9 +15,9 @@ function Footer() {
               We are committed to providing eco-friendly products that promote sustainability and environmental responsibility.
             </p>
             <div className="social-icons">
-              <a href="#" target="_blank" className="social-icon"><FaFacebookF /></a>
-              <a href="#" target="_blank" className="social-icon"><FaInstagram /></a>
-              <a href="#" target="_blank" className="social-icon"><FaLinkedinIn /></a>
+              {/* <a href="#" target="_blank" className="social-icon"><FaFacebookF /></a> */}
+              <a href="https://www.instagram.com/agroman_francis/profilecard/?igsh=OG55cGE3cnlodmc0" target="_blank" className="social-icon"><FaInstagram /></a>
+              <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHbfkOminxTQgAAAZL1k09I1fuc_hQnq0InlMNeloiSs-Wh-BfohoHYIaHAFT0wBiKiJZ79ojelEyAkhpbaG_aklpyKay80uEarSNKYc19jAHwXIN3QbENkz3-4kZnmVgCQWuI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagroman-store-74530131a%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="_blank" className="social-icon"><FaLinkedinIn /></a>
             </div>
           </Col>
           <Col lg={2} md={6} className="footer-section">
